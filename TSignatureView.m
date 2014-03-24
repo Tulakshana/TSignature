@@ -8,7 +8,7 @@
 
 #import "TSignatureView.h"
 
-#import "TSPoint.h"
+
 
 // pi is approximately equal to 3.14159265359.
 #define   DEGREES_TO_RADIANS(degrees)  ((3.14159265359 * degrees)/ 180)
